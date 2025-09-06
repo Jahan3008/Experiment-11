@@ -8,7 +8,7 @@ It is a testing framework that allows users to write test codes using python pro
 Installation on Windows:
 
 1.Navigate to folder where the python is installed.
-2.Open scripts folder and copy the address location.
+2.Open scripts folder and copy the address location. 
 3.Open command prompt and execute “cd copied_address_Location”.
 4.Execute “pip install pytest”.
 Creating File:
